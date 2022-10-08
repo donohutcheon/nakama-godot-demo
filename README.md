@@ -1,7 +1,8 @@
 # nakama-godot-demo Golang implementation
 
 This is a Lua to Golang translation of the [Nakama Godot tutorial](https://github.com/heroiclabs/nakama-godot-demo).
-https://www.youtube.com/watch?v=r3T_ED281vU
+
+Watch the GDQuest video [here](https://www.youtube.com/watch?v=r3T_ED281vU)
 
 ## How to use:
 
