@@ -19,3 +19,7 @@ docker-compose up
 Press `Ctrl-c` to send a signal to docker-compose to shut the containers down, or run `docker-compose down` in a separate session.
 
 Then run multiple instances of the tutorial game. The easiest approach is to export the game to an executable and run multiple instances of the demo.
+
+## License
+
+This is a derived work of the original tutorial code, which at the time of writing used the Apache 2.0 license.
